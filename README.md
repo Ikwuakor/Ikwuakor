@@ -8,7 +8,7 @@ I'm currently learning ML Engineering (deploying models at scale) and creating m
 
 You can also find me on LinkedIn at https://www.linkedin.com/in/uzodinmaikwuakor/
 
-<img src="https://media.giphy.com/media/1jl173guBKkbvC03rQ/giphy.gif">
+<img src="https://media.giphy.com/media/1jl173guBKkbvC03rQ/giphy.gif" banner="What I BE LIKE>
 
 <!--
 **Ikwuakor/Ikwuakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
