@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Uzo and welcome to my Github! 👋
 
 <!--
 **Ikwuakor/Ikwuakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
