@@ -4,11 +4,9 @@ I'm a Data Scientist, with a background in applied mathematics, probability and 
 
 I'm currently learning ML Engineering (deploying models at scale) and creating my own packages.
 
-📫 How to reach me: uzo.ikwuakor@gmail.com
+📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/uzodinmaikwuakor/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="60" height="60"></a>
-
-<a href="mailto:uzo.ikwuakor@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg" alt="gmail" width="60" height="60"></a>
+<a href="mailto:uzo.ikwuakor@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg" alt="gmail" width="60" height="60"></a> <a href="https://www.linkedin.com/in/uzodinmaikwuakor/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="60" height="60"></a>
 
 <!--
 **Ikwuakor/Ikwuakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
