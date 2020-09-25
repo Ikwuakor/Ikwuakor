@@ -6,7 +6,7 @@ I'm currently learning ML Engineering (deploying models at scale) and creating m
 
 📫 How to reach me: uzo.ikwuakor@gmail.com
 
-<a href="https://www.linkedin.com/in/uzodinmaikwuakor/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
+<a href="https://www.linkedin.com/in/uzodinmaikwuakor/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn"></a>
 
 <a href="mailto:uzo.ikwuakor@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg"></a>
 
