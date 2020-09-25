@@ -8,7 +8,7 @@ I'm currently learning ML Engineering (deploying models at scale) and creating m
 
 <a href="https://www.linkedin.com/in/uzodinmaikwuakor/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
 
-<a href="mailto:uzo.ikwuakor@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg"></a>
+<a href="mailto:uzo.ikwuakor@gmail.com"><img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504727.svg"></a>
 
 <!--
 **Ikwuakor/Ikwuakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
