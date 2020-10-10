@@ -4,7 +4,7 @@ I'm a Data Scientist, with a background in applied mathematics, probability and 
 
 I'm currently learning ML Engineering (deploying models at scale) and creating my own packages.
 
-📫 How to reach me: <a href="mailto:uzo.ikwuakor@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg" alt="gmail" width="40" height="40"></a> or <a href="https://www.linkedin.com/in/uzodinmaikwuakor/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="50" height="40"></a>. Click ![image](https://user-images.githubusercontent.com/42311832/95643604-7379b080-0a6d-11eb-935b-f592206a9dcb.png)
+📫 How to reach me: <a href="mailto:uzo.ikwuakor@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg" alt="gmail" width="40" height="40"></a> or <a href="https://www.linkedin.com/in/uzodinmaikwuakor/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="50" height="40"></a>. Click <a href="https://www.linkedin.com/in/uzodinmaikwuakor/"><img src="https://user-images.githubusercontent.com/42311832/95643604-7379b080-0a6d-11eb-935b-f592206a9dcb.png" alt="portfolio" width="300" height="50"></a>
 to see my portfolio.
 
 <!--
