@@ -6,7 +6,7 @@ I'm currently learning ML Engineering (deploying models at scale) and creating m
 
 📫 How to reach me: <a href="mailto:uzo.ikwuakor@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg" alt="gmail" width="40" height="40"></a> or <a href="https://www.linkedin.com/in/uzodinmaikwuakor/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="50" height="40"></a>
 
-Also, please check out my <a href="https://ikwuakor.github.io" target="_blank"><img src="https://user-images.githubusercontent.com/42311832/95643729-34982a80-0a6e-11eb-96bc-6b820aa28aab.png" alt="portfolio" width="200" height="30"></a>
+Also, please check out my <a href="https://ikwuakor.github.io" target="popup" onclick="window.open('https://ikwuakor.github.io','name','width=600,height=400')><img src="https://user-images.githubusercontent.com/42311832/95643729-34982a80-0a6e-11eb-96bc-6b820aa28aab.png" alt="portfolio" width="200" height="30"></a>
 
 <!--
 **Ikwuakor/Ikwuakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
