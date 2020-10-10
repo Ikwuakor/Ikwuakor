@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/42311832/95644008-82159700-0a70-11eb-9985-e287c37f63c6.png)
-
 ## Hi, my name is Uzo and welcome to my Github! 👋
 
 I'm a Data Scientist, with a background in applied mathematics, probability and statistics who is proficient in Python/SQL data methods. I try to be a first principles thinker, striving to achieve a fundamental understanding of data science concepts from the ground up. I believe that this way of thinking lends itself towards improved interpretability, a sharpened ability to think through problems, adaptability in an ever-changing ecosystem and an eye towards what yet is still possible.
